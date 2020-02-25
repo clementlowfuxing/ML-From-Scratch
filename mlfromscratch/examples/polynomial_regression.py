@@ -7,7 +7,7 @@ from mlfromscratch.supervised_learning import PolynomialRidgeRegression
 from mlfromscratch.utils import k_fold_cross_validation_sets, normalize, mean_squared_error
 from mlfromscratch.utils import train_test_split, polynomial_features, Plot
 
-
+#Function for polynomial regression
 def main():
 
     # Load temperature data
